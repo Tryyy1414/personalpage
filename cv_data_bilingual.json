@@ -10,8 +10,8 @@
       "en": "Specializing in Advanced Observability, DevOps & Cloud Resilience"
     },
     "location": "Lima, Perú",
-    "linkedin": "linkedin.com/in/pcasolae",
-    "linkedin_url": "https://linkedin.com/in/pcasolae",
+    "linkedin": "linkedin.com/in/pcasasolae",
+    "linkedin_url": "https://linkedin.com/in/pcasasolae",
     "phone": "+51 933153989",
     "email": "paolocasasolaesteban@gmail.com",
     "status": "SLO target: 99.99% Uptime"
@@ -23,19 +23,31 @@
   "metrics": [
     {
       "value": "99.99%",
-      "label": { "es": "Disponibilidad de Servicio Target", "en": "Target Service Availability" }
+      "label": {
+        "es": "Disponibilidad de Servicio Target",
+        "en": "Target Service Availability"
+      }
     },
     {
       "value": "-45%",
-      "label": { "es": "Reducción de Toil Operativo", "en": "Operational Toil Reduction" }
+      "label": {
+        "es": "Reducción de Toil Operativo",
+        "en": "Operational Toil Reduction"
+      }
     },
     {
       "value": "5+",
-      "label": { "es": "Años de Trayectoria SRE/DevOps", "en": "Years in SRE & DevOps" }
+      "label": {
+        "es": "Años de Trayectoria SRE/DevOps",
+        "en": "Years in SRE & DevOps"
+      }
     },
     {
       "value": "< 15m",
-      "label": { "es": "MTTR Promedio en Incidentes Críticos", "en": "Average MTTR for Critical Incidents" }
+      "label": {
+        "es": "MTTR Promedio en Incidentes Críticos",
+        "en": "Average MTTR for Critical Incidents"
+      }
     }
   ],
   "experience": [
@@ -52,7 +64,14 @@
       },
       "location": "Lima, Perú",
       "badge": "Current Role",
-      "tech_stack": ["AWS", "Terraform", "OpenTelemetry", "AWS DevOps Agent", "APMs", "Synthetic Monitoring"],
+      "tech_stack": [
+        "AWS",
+        "Terraform",
+        "OpenTelemetry",
+        "AWS DevOps Agent",
+        "APMs",
+        "Synthetic Monitoring"
+      ],
       "responsibilities": {
         "es": [
           "Diseño e implementación de arquitecturas en AWS basadas en las mejores prácticas usando Terraform como IaC.",
@@ -87,7 +106,13 @@
         "en": "September 2024 - June 2025"
       },
       "location": "Lima, Perú",
-      "tech_stack": ["SRE Framework", "Assessment", "Incident Management", "Change Control", "Dynatrace"],
+      "tech_stack": [
+        "SRE Framework",
+        "Assessment",
+        "Incident Management",
+        "Change Control",
+        "Dynatrace"
+      ],
       "responsibilities": {
         "es": [
           "Liderazgo integral del Assessment SRE para una de las empresas líderes del sector asegurador en Perú.",
@@ -120,7 +145,14 @@
         "en": "July 2021 - August 2024"
       },
       "location": "Lima, Perú",
-      "tech_stack": ["Kubernetes", "Prometheus", "Grafana", "New Relic", "Bash", "Postmortems"],
+      "tech_stack": [
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "New Relic",
+        "Bash",
+        "Postmortems"
+      ],
       "responsibilities": {
         "es": [
           "Site Reliability Engineer asignado a cliente líder del sector banca en Perú.",
@@ -155,7 +187,14 @@
         "en": "December 2018 - January 2021"
       },
       "location": "Lima, Perú",
-      "tech_stack": ["AWS", "CI/CD", "Laravel", "Spring", "Angular", "Docker"],
+      "tech_stack": [
+        "AWS",
+        "CI/CD",
+        "Laravel",
+        "Spring",
+        "Angular",
+        "Docker"
+      ],
       "responsibilities": {
         "es": [
           "Gestión de infraestructura en nube AWS bajo demanda para múltiples servicios web.",
@@ -248,23 +287,95 @@
     }
   ],
   "technical_skills": [
-    { "name": "AWS", "category": "cloud", "icon": "cloud" },
-    { "name": "Azure", "category": "cloud", "icon": "cloud-lightning" },
-    { "name": "Terraform", "category": "iac", "icon": "layers" },
-    { "name": "Kubernetes", "category": "cloud", "icon": "box" },
-    { "name": "Docker", "category": "cloud", "icon": "container" },
-    { "name": "Prometheus", "category": "obs", "icon": "line-chart" },
-    { "name": "Grafana", "category": "obs", "icon": "bar-chart-2" },
-    { "name": "OpenTelemetry", "category": "obs", "icon": "radio" },
-    { "name": "Dynatrace / New Relic", "category": "obs", "icon": "eye" },
-    { "name": "OpsGenie", "category": "obs", "icon": "bell" },
-    { "name": "Copilot / Claude / AWS DevOps Agent", "category": "automation", "icon": "cpu" },
-    { "name": "GitHub Actions", "category": "automation", "icon": "git-branch" },
-    { "name": "Git / Gitflow / GitOps", "category": "automation", "icon": "git-commit" },
-    { "name": "Linux / Bash", "category": "os", "icon": "terminal" },
-    { "name": "Python", "category": "dev", "icon": "code" },
-    { "name": "Java Spring", "category": "dev", "icon": "coffee" },
-    { "name": "Laravel", "category": "dev", "icon": "server" },
-    { "name": "Jira / Confluence", "category": "management", "icon": "check-square" }
+    {
+      "name": "AWS",
+      "category": "cloud",
+      "icon": "cloud"
+    },
+    {
+      "name": "Azure",
+      "category": "cloud",
+      "icon": "cloud-lightning"
+    },
+    {
+      "name": "Terraform",
+      "category": "iac",
+      "icon": "layers"
+    },
+    {
+      "name": "Kubernetes",
+      "category": "cloud",
+      "icon": "box"
+    },
+    {
+      "name": "Docker",
+      "category": "cloud",
+      "icon": "container"
+    },
+    {
+      "name": "Prometheus",
+      "category": "obs",
+      "icon": "line-chart"
+    },
+    {
+      "name": "Grafana",
+      "category": "obs",
+      "icon": "bar-chart-2"
+    },
+    {
+      "name": "OpenTelemetry",
+      "category": "obs",
+      "icon": "radio"
+    },
+    {
+      "name": "Dynatrace / New Relic",
+      "category": "obs",
+      "icon": "eye"
+    },
+    {
+      "name": "OpsGenie",
+      "category": "obs",
+      "icon": "bell"
+    },
+    {
+      "name": "Copilot / Claude / AWS DevOps Agent",
+      "category": "automation",
+      "icon": "cpu"
+    },
+    {
+      "name": "GitHub Actions",
+      "category": "automation",
+      "icon": "git-branch"
+    },
+    {
+      "name": "Git / Gitflow / GitOps",
+      "category": "automation",
+      "icon": "git-commit"
+    },
+    {
+      "name": "Linux / Bash",
+      "category": "os",
+      "icon": "terminal"
+    },
+    {
+      "name": "Python",
+      "category": "dev",
+      "icon": "code"
+    },
+    {
+      "name": "Java Spring",
+      "category": "dev",
+      "icon": "coffee"
+    },
+    {
+      "name": "Laravel",
+      "category": "dev",
+      "icon": "server"
+    },
+    {
+      "name": "Jira / Confluence",
+      "category": "management",
+      "icon": "check-square"
+    }
   ]
 }

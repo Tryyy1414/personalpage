@@ -10,8 +10,8 @@ window.CV_DATA = {
       "en": "Specializing in Advanced Observability, DevOps & Cloud Resilience"
     },
     "location": "Lima, Perú",
-    "linkedin": "linkedin.com/in/pcasolae",
-    "linkedin_url": "https://linkedin.com/in/pcasolae",
+    "linkedin": "linkedin.com/in/pcasasolae",
+    "linkedin_url": "https://linkedin.com/in/pcasasolae",
     "phone": "+51 933153989",
     "email": "paolocasasolaesteban@gmail.com",
     "status": "SLO target: 99.99% Uptime"
