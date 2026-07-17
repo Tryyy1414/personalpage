@@ -1,0 +1,270 @@
+{
+  "personal_info": {
+    "name": "Paolo Casasola Esteban",
+    "title": {
+      "es": "Ingeniero de Sistemas y SRE Senior",
+      "en": "Systems Engineer & Senior Site Reliability Engineer"
+    },
+    "tagline": {
+      "es": "Especializado en Observabilidad Avanzada, DevOps & Resiliencia en la Nube",
+      "en": "Specializing in Advanced Observability, DevOps & Cloud Resilience"
+    },
+    "location": "Lima, Perú",
+    "linkedin": "linkedin.com/in/pcasolae",
+    "linkedin_url": "https://linkedin.com/in/pcasolae",
+    "phone": "+51 933153989",
+    "email": "paolocasasolaesteban@gmail.com",
+    "status": "SLO target: 99.99% Uptime"
+  },
+  "summary": {
+    "es": "Ingeniero de Sistemas y SRE Senior especializado en cultura DevOps, observabilidad avanzada y automatización de infraestructura. Experto en optimizar la resiliencia de plataformas mediante la gestión de incidentes y el despliegue de agentes inteligentes como AWS DevOps Agent para el análisis proactivo de fallas. Profesional orientado al diseño de soluciones escalables, liderazgo técnico y la entrega continua con altos estándares de excelencia.",
+    "en": "Systems Engineer and Senior SRE specialized in DevOps culture, advanced observability, and infrastructure automation. Expert in optimizing platform resilience through incident management and deploying intelligent agents such as AWS DevOps Agent for proactive root cause analysis. Driven professional focused on scalable architectural design, technical leadership, and continuous delivery backed by high excellence standards."
+  },
+  "metrics": [
+    {
+      "value": "99.99%",
+      "label": { "es": "Disponibilidad de Servicio Target", "en": "Target Service Availability" }
+    },
+    {
+      "value": "-45%",
+      "label": { "es": "Reducción de Toil Operativo", "en": "Operational Toil Reduction" }
+    },
+    {
+      "value": "5+",
+      "label": { "es": "Años de Trayectoria SRE/DevOps", "en": "Years in SRE & DevOps" }
+    },
+    {
+      "value": "< 15m",
+      "label": { "es": "MTTR Promedio en Incidentes Críticos", "en": "Average MTTR for Critical Incidents" }
+    }
+  ],
+  "experience": [
+    {
+      "id": "belcorp",
+      "company": "Belcorp (Cetco S.A.)",
+      "role": {
+        "es": "Site Reliability Engineer",
+        "en": "Site Reliability Engineer"
+      },
+      "period": {
+        "es": "Julio 2025 - Actualidad",
+        "en": "July 2025 - Present"
+      },
+      "location": "Lima, Perú",
+      "badge": "Current Role",
+      "tech_stack": ["AWS", "Terraform", "OpenTelemetry", "AWS DevOps Agent", "APMs", "Synthetic Monitoring"],
+      "responsibilities": {
+        "es": [
+          "Diseño e implementación de arquitecturas en AWS basadas en las mejores prácticas usando Terraform como IaC.",
+          "Modernización de la estrategia de observabilidad empresarial mediante métricas clave (SLIs/SLOs), monitoreo sintético, APMs y monitoreo proactivo.",
+          "Gestión y mitigación de incidentes críticos, liderando análisis de causa raíz (RCA) y ejecutando planes de mejora continua.",
+          "Despliegue de AWS DevOps Agent para alertas automatizadas e investigación asistida por IA.",
+          "Reducción sustancial de la carga operativa (Toil) mediante agentes inteligentes, scripting avanzado y automatización de pipelines."
+        ],
+        "en": [
+          "Design and implementation of AWS architectures following enterprise best practices using Terraform as IaC.",
+          "Modernization of enterprise observability strategy through key metrics (SLIs/SLOs), synthetic monitoring, APMs, and proactive monitoring.",
+          "Management and mitigation of critical incidents, leading root cause analysis (RCA) and driving continuous improvement initiatives.",
+          "Deployment of AWS DevOps Agent for automated notifications and AI-assisted RCA.",
+          "Substantial reduction of operational toil using intelligent agents, shell scripting, and pipeline automation."
+        ]
+      },
+      "highlights": {
+        "es": "Liderazgo en la implementación de observabilidad proactiva con SLIs/SLOs y reducción drástica de toil.",
+        "en": "Led proactive observability implementation using SLIs/SLOs and achieved drastic toil reduction."
+      },
+      "diagram_type": "AWS Observability Architecture"
+    },
+    {
+      "id": "ntt-lead",
+      "company": "NTT Data Perú S.A.C.",
+      "role": {
+        "es": "Lead Engineer",
+        "en": "Lead Engineer"
+      },
+      "period": {
+        "es": "Setiembre 2024 - Junio 2025",
+        "en": "September 2024 - June 2025"
+      },
+      "location": "Lima, Perú",
+      "tech_stack": ["SRE Framework", "Assessment", "Incident Management", "Change Control", "Dynatrace"],
+      "responsibilities": {
+        "es": [
+          "Liderazgo integral del Assessment SRE para una de las empresas líderes del sector asegurador en Perú.",
+          "Revisión y reingeniería de procesos de gestión de incidentes y cambios para identificar cuellos de botella y oportunidades de optimización.",
+          "Evaluación multicapa de aplicaciones para la adopción de principios de resiliencia y fiabilidad del marco SRE.",
+          "Formulación de hojas de ruta de mejora en monitoreo, respuesta a incidentes, gestión de cambios y cultura de fiabilidad."
+        ],
+        "en": [
+          "Comprehensive leadership of the SRE Assessment for a major insurance company in Peru.",
+          "Review and re-engineering of incident management and change control processes to eliminate bottlenecks.",
+          "Multi-layer application evaluations to align architecture and operations with SRE core principles.",
+          "Formulation of strategic roadmaps across Monitoring, Incident Response, Change Management, and Reliability culture."
+        ]
+      },
+      "highlights": {
+        "es": "Evaluación e implementación del modelo de madurez SRE en sector Seguros.",
+        "en": "Architected and led SRE maturity framework adoption in the Insurance sector."
+      },
+      "diagram_type": "SRE Assessment Framework"
+    },
+    {
+      "id": "ntt-engineer",
+      "company": "NTT Data Perú S.A.C.",
+      "role": {
+        "es": "Engineer (SRE)",
+        "en": "Engineer (SRE)"
+      },
+      "period": {
+        "es": "Julio 2021 - Agosto 2024",
+        "en": "July 2021 - August 2024"
+      },
+      "location": "Lima, Perú",
+      "tech_stack": ["Kubernetes", "Prometheus", "Grafana", "New Relic", "Bash", "Postmortems"],
+      "responsibilities": {
+        "es": [
+          "Site Reliability Engineer asignado a cliente líder del sector banca en Perú.",
+          "Automatización de tareas rutinarias y diseño de flujos operativos eficientes.",
+          "Creación de tableros de monitoreo unificados en Grafana/Dynatrace y configuración de políticas de alertas inteligentes.",
+          "Análisis continuo de observabilidad, evaluación del MTTR (Mean Time to Resolution) y conducción de sesiones de postmortem sin culpa (blameless).",
+          "Desarrollo e implementación de lineamientos transversales de SRE a escala organizacional."
+        ],
+        "en": [
+          "Site Reliability Engineer embedded in a top-tier banking sector account in Peru.",
+          "Automation of manual operational workflows to increase team velocity.",
+          "Unified observability dashboard design in Grafana/Dynatrace and alert rule tuning.",
+          "Continuous analysis of application health, MTTR optimization, and blameless postmortem facilitation.",
+          "Development and deployment of cross-cutting SRE standards and guidelines."
+        ]
+      },
+      "highlights": {
+        "es": "Establecimiento de dashboards de observabilidad y prácticas de postmortem en Banca.",
+        "en": "Established core observability metrics and blameless postmortem practices in Banking."
+      },
+      "diagram_type": "Observability & Alerting Pipeline"
+    },
+    {
+      "id": "wydnex",
+      "company": "Wydnex S.A.C.",
+      "role": {
+        "es": "DevOps Engineer",
+        "en": "DevOps Engineer"
+      },
+      "period": {
+        "es": "Diciembre 2018 - Enero 2021",
+        "en": "December 2018 - January 2021"
+      },
+      "location": "Lima, Perú",
+      "tech_stack": ["AWS", "CI/CD", "Laravel", "Spring", "Angular", "Docker"],
+      "responsibilities": {
+        "es": [
+          "Gestión de infraestructura en nube AWS bajo demanda para múltiples servicios web.",
+          "Construcción y mantenimiento de pipelines de integración y despliegue continuo (CI/CD).",
+          "Desarrollo y soporte a servicios basados en Laravel, Java Spring y frontend Angular."
+        ],
+        "en": [
+          "On-demand cloud infrastructure provisioning and management on AWS.",
+          "Design and maintenance of continuous integration and continuous delivery (CI/CD) pipelines.",
+          "Full-stack development and infrastructure integration for Laravel, Java Spring, and Angular apps."
+        ]
+      },
+      "highlights": {
+        "es": "Infraestructura como código y pipelines CI/CD automatizados.",
+        "en": "Cloud infrastructure delivery and automated deployment pipelines."
+      },
+      "diagram_type": "CI/CD & Cloud Infrastructure Flow"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Católica Sedes Sapientiae",
+      "degree": {
+        "es": "Ingeniería de Sistemas",
+        "en": "Bachelor of Science in Systems Engineering"
+      },
+      "period": "2018 - 2021"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "otel",
+      "name": "OpenTelemetry (LFS148)",
+      "issuer": "Linux Foundation",
+      "date": "Mayo 2026",
+      "icon": "activity",
+      "badge_color": "#00f3ff",
+      "description": {
+        "es": "Estándar abierto para la recolección de trazas, métricas y logs.",
+        "en": "Open standard for vendor-neutral trace, metric, and log collection."
+      }
+    },
+    {
+      "id": "chaos",
+      "name": "Enterprise Chaos Engineering Certified",
+      "issuer": "Gremlin",
+      "date": "Octubre 2024",
+      "icon": "zap",
+      "badge_color": "#ffab00",
+      "description": {
+        "es": "Pruebas de inyección de fallas proactivas para validar resiliencia.",
+        "en": "Proactive fault injection testing to validate system resilience under load."
+      }
+    },
+    {
+      "id": "terraform",
+      "name": "Terraform Associate (003)",
+      "issuer": "HashiCorp",
+      "date": "Octubre 2024",
+      "icon": "layers",
+      "badge_color": "#7c4dff",
+      "description": {
+        "es": "Aprovisionamiento declarativo de infraestructura cloud multi-proveedor.",
+        "en": "Declarative multi-cloud infrastructure provisioning and automation."
+      }
+    },
+    {
+      "id": "sref",
+      "name": "Site Reliability Engineering Foundation",
+      "issuer": "QA North America / DevOps Institute",
+      "date": "Abril 2024",
+      "icon": "shield-check",
+      "badge_color": "#00e676",
+      "description": {
+        "es": "Principios básicos de SRE, presupuestos de error y gestión de SLOs.",
+        "en": "Core SRE principles, error budgets, and SLO lifecycle management."
+      }
+    },
+    {
+      "id": "az900",
+      "name": "Azure Fundamentals (AZ-900)",
+      "issuer": "Microsoft Certified",
+      "date": "Junio 2021",
+      "icon": "cloud",
+      "badge_color": "#0288d1",
+      "description": {
+        "es": "Conceptos fundamentales de nube pública y servicios Microsoft Azure.",
+        "en": "Foundational cloud computing principles and Azure service offerings."
+      }
+    }
+  ],
+  "technical_skills": [
+    { "name": "AWS", "category": "cloud", "icon": "cloud" },
+    { "name": "Azure", "category": "cloud", "icon": "cloud-lightning" },
+    { "name": "Terraform", "category": "iac", "icon": "layers" },
+    { "name": "Kubernetes", "category": "cloud", "icon": "box" },
+    { "name": "Docker", "category": "cloud", "icon": "container" },
+    { "name": "Prometheus", "category": "obs", "icon": "line-chart" },
+    { "name": "Grafana", "category": "obs", "icon": "bar-chart-2" },
+    { "name": "OpenTelemetry", "category": "obs", "icon": "radio" },
+    { "name": "Dynatrace / New Relic", "category": "obs", "icon": "eye" },
+    { "name": "OpsGenie", "category": "obs", "icon": "bell" },
+    { "name": "Copilot / Claude / AWS DevOps Agent", "category": "automation", "icon": "cpu" },
+    { "name": "GitHub Actions", "category": "automation", "icon": "git-branch" },
+    { "name": "Git / Gitflow / GitOps", "category": "automation", "icon": "git-commit" },
+    { "name": "Linux / Bash", "category": "os", "icon": "terminal" },
+    { "name": "Python", "category": "dev", "icon": "code" },
+    { "name": "Java Spring", "category": "dev", "icon": "coffee" },
+    { "name": "Laravel", "category": "dev", "icon": "server" },
+    { "name": "Jira / Confluence", "category": "management", "icon": "check-square" }
+  ]
+}

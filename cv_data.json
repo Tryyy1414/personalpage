@@ -1,0 +1,110 @@
+{
+    "personal_info": {
+        "name": "Paolo Casasola Esteban",
+        "title": "Ingeniero de Sistemas y SRE Senior",
+        "location": "Lima, Perú",
+        "linkedin": "linkedin.com/in/pcasolae",
+        "phone": "+51 933153989",
+        "email": "paolocasasolaesteban@gmail.com"
+    },
+    "summary": "Ingeniero de Sistemas y SRE Senior especializado en cultura DevOps, observabilidad avanzada y automatización de infraestructura. Experto en optimizar la resiliencia de plataformas mediante la gestión de incidentes y el despliegue de agentes inteligentes como AWS DevOps Agent para el análisis proactivo de fallas. Profesional orientado al diseño de soluciones escalables, liderazgo técnico y la entrega continua con altos estándares de excelencia.",
+    "experience": [
+        {
+            "company": "Belcorp (Cetco S.A.)",
+            "role": "Site Reliability Engineer",
+            "period": "Julio 2025 - Actualidad",
+            "location": "Lima, Perú",
+            "responsibilities": [
+                "Diseño e implementación de arquitecturas en AWS basado en las mejores practicas usando Terraform.",
+                "Modernización de la estrategia de observabilidad empresarial, implementando métricas clave (SLIS/SLOS), monitore sintético, APMs y monitoreo proactivo.",
+                "Gestión y mitigación de incidentes críticos, liderando el análisis de causa raíz (RCA) y ejecutando planes de mejora continua; implementación de AWS Devops Agent para notificaciones y RCA.",
+                "Reducción de la carga operativa (Toil) a través de herramientas de Agentes, automatizaciones y scripting."
+            ]
+        },
+        {
+            "company": "NTT Data Perú S.A.C.",
+            "role": "Lead Engineer",
+            "period": "Setiembre 2024 - Junio 2025",
+            "location": "Lima, Perú",
+            "responsibilities": [
+                "Liderar el assessment SRE en una empresa importante del sector seguros en Perú.",
+                "Revisar los procesos de gestión de incidentes y gestión de cambios para identificar puntos de mejora.",
+                "Evaluar la aplicación desde distintos frentes para encontrar mejoras enfocadas en el marco SRE.",
+                "Proponer mejoras en áreas como Monitoreo, Gestión de incidentes, Gestión del cambio entre otros."
+            ]
+        },
+        {
+            "company": "NTT Data Perú S.A.C.",
+            "role": "Engineer",
+            "period": "Julio 2021 - Agosto 2024",
+            "location": "Lima, Perú",
+            "responsibilities": [
+                "Site Reliability Engineer asignado a importante empresa del sector banca en Perú.",
+                "Implementar mejoras de automatización de tareas.",
+                "Creación de Dashboards de monitoreo, y configuración de alertas.",
+                "Evaluar estado de aplicaciones en monitoreo y observabilidad, tiempo medio de resolución de incidentes, postmortems.",
+                "Desarrollar e implementar lineamientos transversales basados en el marco SRE."
+            ]
+        },
+        {
+            "company": "Wydnex S.A.C.",
+            "role": "Devops",
+            "period": "Diciembre 2018 - Enero 2021",
+            "location": "Lima, Perú",
+            "responsibilities": [
+                "Gestión de nube a demanda en AWS.",
+                "Implementación de integración y despliegue continuos.",
+                "Desarrollo en Laravel, Spring y Angular."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "UNIVERSIDAD CATÓLICA SEDES SAPIENTIAE",
+            "degree": "Ingeniería de Sistemas",
+            "period": "2018 - 2021"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "OpenTelemetry (LFS148)",
+            "date": "Mayo 2026"
+        },
+        {
+            "name": "Enterprise Chaos Engineering Certified, Gremlin",
+            "date": "Octubre 2024"
+        },
+        {
+            "name": "Terraform Associate (003), Hashicorp",
+            "date": "Octubre 2024"
+        },
+        {
+            "name": "Site Reliability Engineering Foundation, QA North America",
+            "date": "Abril 2024"
+        },
+        {
+            "name": "Azure Fundamentals (AZ900), Microsoft Certified",
+            "date": "Junio 2021"
+        }
+    ],
+    "technical_skills": [
+        "Azure / AWS",
+        "Copilot / Claude",
+        "Prometheus",
+        "OpsGenie",
+        "Terraform",
+        "Docker",
+        "Git/Gitflow/Gitops",
+        "Jira/Confluence",
+        "Kubernetes",
+        "Dynatrace / New Relic",
+        "Github/Github Actions",
+        "Power Automate",
+        "Linux",
+        "Grafana",
+        "Bash Scripting",
+        "Python",
+        "Java Spring",
+        "Laravel"
+    ]
+}
